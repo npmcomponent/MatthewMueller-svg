@@ -1,0 +1,15 @@
+{
+  "name": "matthewmueller-svg",
+  "description": "low-level svg element helper",
+  "version": "0.1.1",
+  "keywords": [
+    "svg"
+  ],
+  "dependencies": {
+    "jkroso-alias-property": "git://github.com/npmcomponent/jkroso-alias-property.git",
+    "component-inherit": "git://github.com/npmcomponent/component-inherit.git",
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "ianstormtaylor-css": "git://github.com/npmcomponent/ianstormtaylor-css.git"
+  },
+  "license": "MIT"
+}

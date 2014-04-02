@@ -3,7 +3,7 @@
  */
 
 var html = require('./template');
-var domify = require('domify');
+var domify = require('component-domify');
 var Group = require('./lib/group');
 
 /**
